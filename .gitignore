@@ -12,3 +12,10 @@ docs/
 
 # Dotenv file
 .env
+
+build/
+*.swp
+node_modules
+.parcel-cache
+dist
+broadcast
